@@ -1,0 +1,14 @@
+# requirements.txt
+opencv-python
+mediapipe
+pyttsx3
+numpy
+pillow
+torch
+torchvision
+scikit-learn
+matplotlib
+transformers
+tqdm
+easyocr
+requests
